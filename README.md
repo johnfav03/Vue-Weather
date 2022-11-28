@@ -1,6 +1,8 @@
-# vue-weather
+# Vue-Weather
 
-> A Vue.js project
+> This project was meant to help learn front-end frameworks like Vue.js as well as API integration
+basics; it uses the Vue to display the site, and the OpenWeather API to give locationally based
+weather forecasts. In addition, the background changes in coordination with temperature.
 
 ## Build Setup
 
